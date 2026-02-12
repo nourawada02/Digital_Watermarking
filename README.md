@@ -1,4 +1,4 @@
-# Project Title
+# digital watermarking :1st part of demo
 
 ## Setup
 pip install -r requirements.txt
